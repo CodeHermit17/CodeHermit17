@@ -24,6 +24,6 @@
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Your LinkedIn link]
-- Mail: [Your Email]
+- LinkedIn: 
+- Mail: kashyap17.vaghasiya@gmail.com
 
