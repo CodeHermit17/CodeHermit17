@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Kashyapbhai Vaghasiya
+<h1 align="center">Hi, I'm Kashyap 👋</h1>
 
-🎓 3rd-year IT Undergrad | AI/ML & Finance Enthusiast  
-🔬 Exploring CERN, GSoC, and Quantitative Research
-
----
-
-## 🔧 Skills
-- 💻 Python, C, C++
-- 📊 Machine Learning, Data Science, DSA
-- 🧠 Operating Systems, Git, Linux, VS Code
+🎓 I'm an IT undergrad entering my 3rd year  
+🧠 I’m deeply interested in **Machine Learning, AI, Finance, and Scientific Research (CERN)**  
+🌱 Currently learning: **C++, ROOT toolkit, Quantitative Finance, and Algorithmic Trading**  
+🔬 Exploring research opportunities in **AI + Physics** and applying for **CERN & GSoC**  
+💼 Seeking internships in **ML, Finance, or Research** (Winter 2025)
 
 ---
 
-## 🚀 Current Projects
-- 📈 Stock Price Movement Predictor — *(ML + Finance)*
-- 🧪 CERN ROOT Simulation (C++) — *coming soon*
-- 📘 DSA Practice Tracker — *(Python & C++)*
+### 🧰 Tech Stack
+- **Languages:** Python, C, C++ (learning), SQL  
+- **ML Tools:** pandas, scikit-learn, matplotlib, seaborn  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+- **Learning:** ROOT (CERN), PyTorch, Financial Modeling, Time Series
 
 ---
 
-## 📌 Goals for 2025
-- 🔬 Apply for **CERN Openlab** Internship
-- 🌍 Contribute to **GSoC** (open-source AI)
-- 💸 Build 2–3 ML + Finance projects
+### 🚀 Featured Projects
+- 🔢 **Stock Price Classifier** (in progress): A model to predict stock movement using financial indicators.  
+- 🔬 **CERN Particle Data Simulator** (coming soon): A ROOT-based simulation of simple particle interactions.  
+- 💡 **DSA Practice Repo**: My LeetCode and coding practice journey in Python and C++
 
 ---
 
-📫 Reach me: *kashyap17.vaghasiya@gmail.com*  
+### 📫 Connect with Me
+- LinkedIn: [Your LinkedIn link]
+- Mail: [Your Email]
+
